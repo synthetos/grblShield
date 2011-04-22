@@ -22,7 +22,6 @@
 #include "settings.h"
 #include "config.h"
 #include "stepper.h"
-
 #include <avr/io.h>
 
 static int current_direction;

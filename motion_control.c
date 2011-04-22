@@ -33,8 +33,9 @@
 void mc_dwell(uint32_t milliseconds) 
 {
   st_synchronize();
-  _delay_ms(milliseconds);
-}
+//  _delay_ms(milliseconds);	// uses modified delay.h to allow milliseconds to be a non-constant
+  delay_ms(milliseconds);	// uses modified delay.h to allow milliseconds to be a non-constant
+} 
 
 // Execute an arc. theta == start angle, angular_travel == number of radians to go along the arc,
 // positive angular_travel means clockwise, negative means counterclockwise. Radius == the radius of the

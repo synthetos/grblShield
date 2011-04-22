@@ -62,10 +62,8 @@ void beginSerial(long baud)
 
 void serialWrite(unsigned char c)
 {
-// ++++ COMMENTED OUT FOR SIMULATION ONLY
-//	while (!(UCSR0A & (1 << UDRE0)))
-//		;
-
+// ++++ COMMENT NEXT LINE OUT FOR SIMULATION ONLY
+	while (!(UCSR0A & (1 << UDRE0))) ;
 	UDR0 = c;
 }
 

@@ -18,8 +18,8 @@
   along with Grbl.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-/* This code is inspired by the Arduino GCode Interpreter by Mike Ellery and the NIST RS274/NGC Interpreter
-   by Kramer, Proctor and Messina. */
+/* This code is inspired by the Arduino GCode Interpreter by Mike Ellery 
+   and the NIST RS274/NGC Interpreter by Kramer, Proctor and Messina. */
 
 #include "gcode.h"
 #include <string.h>

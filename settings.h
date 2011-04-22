@@ -20,8 +20,6 @@
 
 #ifndef settings_h
 #define settings_h
-
-
 #include <math.h>
 #include <inttypes.h>
 

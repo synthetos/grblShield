@@ -27,8 +27,8 @@
 #include <math.h>
 #include "nuts_bolts.h"
 #include <avr/pgmspace.h>
-//#define LINE_BUFFER_SIZE 50	// too short for some very long lines
-#define LINE_BUFFER_SIZE 100
+//#define LINE_BUFFER_SIZE 50	// 50 is too short for some machine-generated lines
+#define LINE_BUFFER_SIZE 100	// 50 is too short for some machine-generated lines
 
 static char line[LINE_BUFFER_SIZE];
 static uint8_t char_counter;

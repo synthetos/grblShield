@@ -39,4 +39,10 @@
 // a pointer to the result variable. Returns true when it succeeds
 int read_double(char *line, uint8_t *char_counter, double *double_ptr);
 
+// local delay functions that accept variable delays
+// AVR-libc v1.7.1 will only accept constants as per the spec. 
+// Earlier version were more forgiving
+void delay_ms(uint32_t count); 
+void delay_us(uint32_t count);
+
 #endif

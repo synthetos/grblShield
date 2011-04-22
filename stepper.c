@@ -26,7 +26,7 @@
 #include "settings.h"
 #include <math.h>
 #include <stdlib.h>
-#include <util/delay.h>
+//#include <util/delay.h>	// +++
 #include "nuts_bolts.h"
 #include <avr/interrupt.h>
 #include "planner.h"

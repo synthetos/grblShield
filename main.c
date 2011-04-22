@@ -20,7 +20,6 @@
 
 #include <avr/io.h>
 #include <avr/sleep.h>
-#include <util/delay.h>
 #include "planner.h"
 #include "stepper.h"
 #include "spindle_control.h"

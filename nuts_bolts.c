@@ -1,6 +1,7 @@
 #include "nuts_bolts.h"
 #include <stdint.h>
 #include <stdlib.h>
+#include <util/delay.h>
 
 int read_double(char *line, uint8_t *char_counter, double *double_ptr)                  
 {
@@ -16,3 +17,14 @@ int read_double(char *line, uint8_t *char_counter, double *double_ptr)
   return(true);
 }
 
+void delay_ms(uint32_t count) { 
+  while(count--) { 
+	_delay_ms(1); 
+  } 
+} 
+
+void delay_us(uint32_t count) { 
+  while(count--) {
+	_delay_us(1); 
+  } 
+}
