@@ -1,4 +1,4 @@
-h1. Patches to grbl for grblshield
+Patches to grbl for grblshield
 
 This patch release takes care of the following issues for running grblshield on top of grbl. These issues have been submitted to the grill project at https://github.com/simen/grbl
 
@@ -13,7 +13,7 @@ https://www.synthetos.com/wiki/index.php?title=Projects:grblShield
 http://www.synthetos.com/forums/forum.php?id=9
 
 
-h1. Grbl - An embedded g-code interpreter and motion-controller for the Arduino/AVR328 microcontroller
+Grbl - An embedded g-code interpreter and motion-controller for the Arduino/AVR328 microcontroller
     
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328. 
 
