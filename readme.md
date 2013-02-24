@@ -1,7 +1,6 @@
 ![grblShield v4](http://farm9.staticflickr.com/8386/8503354005_3c79e4de6f_n.jpg)
 
-Welcome to the grblShield project.  If you just landed here and are not sure what a grblShield this is a quick summary:
-
+Welcome to the grblShield project.  If you just landed here and are not sure what a grblShield this is a quick summary:<br>
 **Question:** What is a grblShield?
 
 **Answer:** The Arduino grblShield is a complete hardware solution for Dank's CNC motion control system called grbl. <br>
