@@ -1,9 +1,11 @@
-![grblShield v4](http://farm9.staticflickr.com/8386/8503354005_3c79e4de6f_n.jpg)
+![gShield v4](http://farm9.staticflickr.com/8386/8503354005_3c79e4de6f_n.jpg)
 
-Welcome to the grblShield project.  If you just landed here and are not sure what a grblShield this is a quick summary:<br>
-**Question:** What is a grblShield?
+Welcome to the gShield project (aka grblShield).  If you just landed here and are not sure what a gShield this is a quick summary:<br>
+**Question:** What is a gShield?
 
-**Answer:** The Arduino grblShield is a complete hardware solution for Dank's CNC motion control system called grbl. <br>
+**Answer:** The Arduino gShield is a complete hardware solution for Dank's CNC motion control system called grbl. <br>
 Compatible with the Uno and other 328p versions of the Arduino development platform.
 
-**The current version of the grblShield is v4.  If you are looking for documentation on the grblShield be sure to checkout the [grblShield wiki](https://github.com/synthetos/grblShield/wiki).**
+It is also compatible with [TinyG running on the Arduino Due](https://github.com/synthetos/g2/wiki)
+
+**The current version of the gShield is v4.  If you are looking for documentation on the gShield be sure to checkout the [gShield wiki](https://github.com/synthetos/grblShield/wiki).**
