@@ -1,5 +1,4 @@
-![gShield v5]http://farm4.staticflickr.com/3767/10699531753_10d41a48fa_h.jpg
-![gShield v4](http://farm9.staticflickr.com/8386/8503354005_3c79e4de6f_n.jpg)
+![gShield v5](http://farm4.staticflickr.com/3767/10699531753_10d41a48fa_h.jpg)
 
 Welcome to the gShield project (aka grblShield).  If you just landed here and are not sure what a gShield is here is a quick summary:<br>
 <br>
