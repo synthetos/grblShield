@@ -8,8 +8,8 @@ The gShield can also be used to run [TinyG2 on the Arduino Due](https://github.c
 
 **The currently shipping version of the gShield is v5. If you are looking for documentation on the gShield be sure to checkout the [gShield wiki](https://github.com/synthetos/grblShield/wiki).**
 
-**Differences between gShield v4 and [v5](https://github.com/synthetos/grblShield/wiki/gShield-v5-Notes)**
+**Differences between gShield v4 and [v5](https://github.com/synthetos/grblShield/wiki/gShield-v5-Notes)**<br>
 Other than price, there is almost no difference between v4 and v5. 
 The v5 has added a power selection section that allows you to select if you want to run the board from 3.3 volts, 5 volts, or the voltage selected by the Arduino (IOREF). 
-This was added to better support the Arduino Due and [TinyG2](https://github.com/synthetos/g2/wiki) - an ARM version of TinyG that can drive the gShield.
+This was added to better support the Arduino Due and [TinyG2](https://github.com/synthetos/g2/wiki).
 You can find out more about v5 [here](https://github.com/synthetos/grblShield/wiki/gShield-v5-Notes)
